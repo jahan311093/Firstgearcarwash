@@ -21,7 +21,6 @@ export function Hero() {
         <div className="max-w-3xl">
           <div className="flex items-center gap-2 mb-6">
             <Sparkles className="w-6 h-6 text-blue-400" />
-            <span className="text-blue-400 uppercase tracking-wider">Premium Auto Care</span>
           </div>
           
           <h1 className="text-5xl sm:text-6xl lg:text-7xl text-white mb-6">
